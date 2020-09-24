@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Infraestructure.deps.json
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Infraestructure.dll
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Infraestructure.runtimeconfig.json
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Infraestructure.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Infraestructure.pdb
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.dll
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.pdb
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Core.dll
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\bin\Debug\netcoreapp3.1\Brive.Core.pdb
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.csproj.CopyComplete
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Infraestructure\obj\Debug\netcoreapp3.1\Brive.Infraestructure.csproj.CoreCompileInputs.cache

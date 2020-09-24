@@ -1,0 +1,146 @@
+﻿
+@{
+    ViewData["Title"] = "Sucursal";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label>Buscar</label>
+                <input type="text" class="form-control" id="codeSearch" name="codeSearch" placeholder="Codigo del Producto">
+            </div>
+            <div class="form-group">                
+                <button type="button" id="btnSearch" name="btnSearch" class="btn btn-primary">Buscar</button>
+            </div>
+            <div>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Producto</th>
+                            <th>Codigo</th>
+                            <th>Cantidad</th>
+                            <th>Precio</th>
+                        </tr>
+                    </thead>
+                    <tbody class="tsearch"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<hr />
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <form>
+                <div class="form-group">
+                    <label>Nombre Producto</label>
+                    <input type="text" class="form-control" id="product" name="product" placeholder="Producto">
+                </div>
+                <div class="form-group">
+                    <label>Codigo</label>
+                    <input type="text" class="form-control" id="code" name="code" placeholder="Codigo">
+                </div>
+                <button type="button" id="addProduct" class="btn btn-primary">Confirmar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<hr />
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <h4>Sucursal A</h4>
+            <form>
+                <div class="form-group">
+                    <label>Codigo</label>
+                    <input type="text" class="form-control" id="codeSA" name="codeSA" placeholder="Codigo">
+                </div>
+                <div class="form-group">
+                    <label>Cantidad</label>
+                    <input type="text" class="form-control" id="quantity" name="quantity" placeholder="Cantidad">
+                </div>
+                <button type="button" id="addProductSucursalA" class="btn btn-primary">Nueva Cantidad</button>
+                <button type="button" id="ComprarSucursalA" class="btn btn-info">Comprar Producto</button>
+            </form>
+        </div>
+        <div class="col-sm-6">
+            <div>
+                <h3>Productos Sucursal A</h3>
+                <div>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Producto</th>
+                                <th>Codigo</th>
+                                <th>Cantidad</th>
+                                <th>Precio</th>
+                            </tr>
+                        </thead>
+                        <tbody class="sucursalA"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <h4>Sucursal B</h4>
+            <form>
+                <div class="form-group">
+                    <label>Codigo</label>
+                    <input type="text" class="form-control" id="codeSB" name="codeSB" placeholder="Codigo">
+                </div>
+                <div class="form-group">
+                    <label>Cantidad</label>
+                    <input type="text" class="form-control" id="quantitySB" name="quantitySB" placeholder="Cantidad">
+                </div>
+                <button type="button" id="addProductSucursalB" class="btn btn-primary">Nueva Cantidad</button>
+                <button type="button" id="ComprarSucursalB" class="btn btn-info">Comprar Producto</button>
+            </form>
+        </div>
+        <div class="col-sm-6">
+            <div>
+                <h3>Productos Sucursal B</h3>
+                <div>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Producto</th>
+                                <th>Codigo</th>
+                                <th>Cantidad</th>
+                                <th>Precio</th>
+                            </tr>
+                        </thead>
+                        <tbody class="sucursalB"></tbody>
+
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/jsSucursal.js"></script>
+    <script src="~/js/jsSucursalA.js"></script>
+    <script src="~/js/jsSucursalB.js"></script>
+}

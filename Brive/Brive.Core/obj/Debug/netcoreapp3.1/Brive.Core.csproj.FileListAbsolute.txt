@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\bin\Debug\netcoreapp3.1\Brive.Core.deps.json
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\bin\Debug\netcoreapp3.1\Brive.Core.dll
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\bin\Debug\netcoreapp3.1\Brive.Core.pdb
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\obj\Debug\netcoreapp3.1\Brive.Core.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\obj\Debug\netcoreapp3.1\Brive.Core.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\obj\Debug\netcoreapp3.1\Brive.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\obj\Debug\netcoreapp3.1\Brive.Core.dll
+C:\Users\lenovo\Desktop\BrivePrueba\Brive\Brive.Core\obj\Debug\netcoreapp3.1\Brive.Core.pdb
