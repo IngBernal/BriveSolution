@@ -54,11 +54,12 @@
     });
 
     $("#btnSearch").click(function () {
-        var id = parseInt($("#codeSearch").val());
+        var id = $("#codeSearch").val();
 
         $.ajax({
-            url: "http://localhost:51922/api/SucursalA/GetUniqueProductSucursalA?id=" + id,
+            url: "http://localhost:51922/api/SucursalA/GetById?id=" + id,
             type: "GET",
+            contentType: "application/json",
             dataType: "json",
             success: function (result) {
 
