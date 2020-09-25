@@ -32,10 +32,9 @@ namespace Brive.Api.Controllers
         }
 
         [HttpGet("{id}", Name = "GetSucursalById")]
-        [Route("GetUniqueProductSucursalA")]
-        public async Task<ActionResult<SucursalADTO>> GetById(int id)
+        public async Task<ActionResult<SucursalADTO>> GetById([FromQuery] int id)
         {
-            string code = "100010";
+            var code = id.ToString();
             var existingSucursal = await _sucursalAService.GetSucursalAByCode(code);
 
             if (existingSucursal == null)
